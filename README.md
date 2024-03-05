@@ -26,9 +26,3 @@ I am a full-stack mobile developer who specializes in React Native. I take produ
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MrSirThe1st"><img src="https://github-readme-stats.vercel.app/api?username=MrSirThe1st&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MrSirThe1st's GitHub stats" /></a>
-
-<a href="https://github.com/MrSirThe1st" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSirThe1st&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/MrSirThe1st/LashesV0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrSirThe1st&repo=LashesV0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
